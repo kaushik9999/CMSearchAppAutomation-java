@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BBAssignmentSuite">
+  <test name="CURDTest">
+    <classes>
+      <class name="org.BBAssignment.Tests.ComputerDBTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
