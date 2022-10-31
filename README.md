@@ -1,4 +1,5 @@
-# SampleProject
+# CMSearchAppAutomation
+
 1. Tests are developed on windows environment. Ideal if you run this on Windows.
 2. In ideal situation the element locators can be better organised by splitting them and keeping them in one Page class per one Page of the website.
 3. In Ideal situation tests can be organised better by keeping them in different classes, a test class per page of the website.
